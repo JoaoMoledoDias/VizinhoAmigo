@@ -8,4 +8,5 @@
     <string name="butao_lista_de_vizinhos">Lista de Vizinhos</string>
     <string name="butao_lista_de_farmacias">Lista de Farmácias</string>
     <string name="butao_lista_de_supermecados">Lista de Supermecados</string>
+    <string name="butao_inserir_novo_vizinho">Inserir Novo Vizinho</string>
 </resources>
