@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">VizinhoAmigo</string>
+    <string name="vizinho_amigo">Vizinho Amigo</string>
+    <string name="Imagem_incial">TODO</string>
+    <string name="barra_pesquisar">Pesquisar...</string>
+    <string name="botao_pesquisar">Pesquisar</string>
+    <string name="ima_inicial">TODO</string>
+    <string name="butao_lista_de_vizinhos">Lista de Vizinhos</string>
+    <string name="butao_lista_de_farmacias">Lista de Farmácias</string>
+    <string name="butao_lista_de_supermecados">Lista de Supermecados</string>
 </resources>
