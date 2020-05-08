@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VizinhoAmigo</string>
+    <string name="vizinho_amigo">Vizinho Amigo</string>
+    <string name="Imagem_incial">TODO</string>
+    <string name="barra_pesquisar">Pesquisar...</string>
+    <string name="botao_pesquisar">Pesquisar</string>
+    <string name="ima_inicial">TODO</string>
+    <string name="butao_lista_de_vizinhos">Lista de Vizinhos</string>
+    <string name="butao_lista_de_farmacias">Lista de Farmácias</string>
+    <string name="butao_lista_de_supermecados">Lista de Supermecados</string>
+    <string name="butao_inserir_novo_vizinho">Inserir Novo Vizinho</string>
+    <string name="email_vizinho">Email</string>
+    <string name="telemovel_vizinho">Telemovel</string>
+    <string name="registo_do_vizinho_amigo">Registo do Vizinho Amigo</string>
+    <string name="nome_vizinho">Nome</string>
+    <string name="morada_vizinho">Morada</string>
+    <string name="botao_registar_vizinho">Registar</string>
+    <string name="nome_obrigatorio">Nome obrigatorio</string>
+    <string name="email_obrigatorio">Insira o Email</string>
+    <string name="telemovel_invalido">Numero de Telemovel Incorreto</string>
+    <string name="morada_invalida">Morada inválida</string>
+</resources>

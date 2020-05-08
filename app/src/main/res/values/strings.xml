@@ -1,18 +1,22 @@
 <resources>
-    <string name="app_name">VizinhoAmigo</string>
-    <string name="vizinho_amigo">Vizinho Amigo</string>
+    <string name="app_name">NeighborFriend</string>
+    <string name="vizinho_amigo">Neighbor Friend</string>
     <string name="Imagem_incial">TODO</string>
-    <string name="barra_pesquisar">Pesquisar...</string>
-    <string name="botao_pesquisar">Pesquisar</string>
+    <string name="barra_pesquisar">Search....</string>
+    <string name="botao_pesquisar">Search</string>
     <string name="ima_inicial">TODO</string>
-    <string name="butao_lista_de_vizinhos">Lista de Vizinhos</string>
-    <string name="butao_lista_de_farmacias">Lista de Farmácias</string>
-    <string name="butao_lista_de_supermecados">Lista de Supermecados</string>
-    <string name="butao_inserir_novo_vizinho">Inserir Novo Vizinho</string>
+    <string name="butao_lista_de_vizinhos">Neighbors List</string>
+    <string name="butao_lista_de_farmacias">Pharmacies List</string>
+    <string name="butao_lista_de_supermecados">Supermarket List</string>
+    <string name="butao_inserir_novo_vizinho">Insert New Neighbor</string>
     <string name="email_vizinho">Email</string>
-    <string name="telemovel_vizinho">Telemovel</string>
-    <string name="registo_do_vizinho_amigo">Registo do Vizinho Amigo</string>
-    <string name="nome_vizinho">Nome</string>
-    <string name="morada_vizinho">Morada</string>
-    <string name="botao_registar_vizinho">Registar</string>
+    <string name="telemovel_vizinho">Cell Phone</string>
+    <string name="registo_do_vizinho_amigo">Neighbor friend register</string>
+    <string name="nome_vizinho">Name</string>
+    <string name="morada_vizinho">Address</string>
+    <string name="botao_registar_vizinho">Register</string>
+    <string name="nome_obrigatorio">Name required</string>
+    <string name="email_obrigatorio">Insert Email</string>
+    <string name="telemovel_invalido">Invalid cell phone</string>
+    <string name="morada_invalida">Invalid address</string>
 </resources>
