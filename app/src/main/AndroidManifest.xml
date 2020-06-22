@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RegistoVizinho"></activity>
-        <activity android:name=".ListaVizinhos" />
+        <activity android:name=".listaVizinhos"></activity>
+        <activity android:name=".RegistoVizinho" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

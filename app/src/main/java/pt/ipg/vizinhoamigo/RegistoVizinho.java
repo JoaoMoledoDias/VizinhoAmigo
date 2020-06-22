@@ -42,7 +42,7 @@ public class RegistoVizinho extends AppCompatActivity {
             return;
         }
 
-        EditText editTextMorada = (EditText) findViewById(R.id.editTextMorada);
+        EditText editTextMorada = (EditText) findViewById(R.id.editTextCity);
         String morada = editTextMorada.getText().toString();
 
         if(morada.length() == 0 ) {

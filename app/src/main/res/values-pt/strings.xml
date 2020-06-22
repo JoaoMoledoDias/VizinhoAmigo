@@ -14,7 +14,7 @@
     <string name="telemovel_vizinho">Telemovel</string>
     <string name="registo_do_vizinho_amigo">Registo do Vizinho Amigo</string>
     <string name="nome_vizinho">Nome</string>
-    <string name="morada_vizinho">Morada</string>
+    <string name="morada_vizinho">Cidade</string>
     <string name="botao_registar_vizinho">Registar</string>
     <string name="nome_obrigatorio">Nome obrigatorio</string>
     <string name="email_obrigatorio">Insira o Email</string>
