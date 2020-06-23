@@ -19,15 +19,11 @@ public class listaVizinhos extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.menu_addvizinho, menu);
         return true;
     }
-
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
-
         if (id == R.id.add_vizinho) {
             Intent intent = new Intent(this,RegistoVizinho.class);
             startActivity(intent);
-
-
             return true;
         }
         return super.onOptionsItemSelected(item);
