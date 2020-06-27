@@ -16,7 +16,7 @@
             android:layout_height="wrap_content">
 
             <Button
-                android:id="@+id/button3"
+                android:id="@+id/button_lis_farmacias"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="40dp"
@@ -26,7 +26,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/button_lis_vizinhos" />
 
             <Button
-                android:id="@+id/button4"
+                android:id="@+id/button_list_supermercados"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="40dp"
@@ -34,14 +34,14 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.497"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/button3" />
+                app:layout_constraintTop_toBottomOf="@+id/button_lis_farmacias" />
 
             <Button
                 android:id="@+id/button_lis_vizinhos"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="36dp"
-                android:onClick="lis_vizinhos"
+                android:onClick="@string/butao_lista_de_vizinhos"
                 android:text="@string/butao_lista_de_vizinhos"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.498"

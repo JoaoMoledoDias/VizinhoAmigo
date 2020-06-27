@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".listaVizinhos"></activity>
+        <activity android:name=".RegistoSupermercado"></activity>
+        <activity android:name=".RegistoFarmacia" />
+        <activity android:name=".ListaFarmacias" />
+        <activity android:name=".ListaSupermercados" />
+        <activity android:name=".listaVizinhos" />
         <activity android:name=".RegistoVizinho" />
         <activity android:name=".MainActivity">
             <intent-filter>
