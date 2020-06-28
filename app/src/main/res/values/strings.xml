@@ -16,6 +16,9 @@
     <string name="morada_vizinho">City</string>
     <string name="botao_registar_vizinho">Register</string>
     <string name="nome_obrigatorio">Name required</string>
+    <string name="Vizinho_sucesso">Neighbor added with sucess!</string>
+    <string name="farmacia_sucesso">Pharmacy add with sucess!</string>
+    <string name="super_sucesso">Supermarket added with sucess!</string>
     <string name="email_obrigatorio">Insert Email</string>
     <string name="telemovel_invalido">Invalid cell phone</string>
     <string name="morada_invalida">Invalid address</string>

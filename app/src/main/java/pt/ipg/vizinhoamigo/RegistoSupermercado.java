@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
@@ -54,6 +55,8 @@ public class RegistoSupermercado extends AppCompatActivity {
                     SupermercadoHelpClass helperClass = new SupermercadoHelpClass(nomesupermercado, telemovelsupermercado, moradasupermercado);
 
                     referencesuper.child(nomesupermercado).setValue(helperClass);
+
+                    Toast.makeText(getBaseContext(), R.string.super_sucesso,Toast.LENGTH_LONG).show();
 
                     openlistsuper();
                 }

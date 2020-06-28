@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
@@ -64,6 +65,8 @@ public class RegistoVizinho extends AppCompatActivity {
                 VizinhoHelpClass helperClass = new VizinhoHelpClass(nome, email, telemovel, morada);
 
                 reference.child(nome).setValue(helperClass);
+
+                Toast.makeText(getBaseContext(), R.string.Vizinho_sucesso,Toast.LENGTH_LONG).show();
 
                 openlistvizinhos();
             }

@@ -20,4 +20,7 @@
     <string name="email_obrigatorio">Insira o Email</string>
     <string name="telemovel_invalido">Numero de Telemovel Incorreto</string>
     <string name="morada_invalida">Morada inválida</string>
+    <string name="Vizinho_sucesso">Vizinho Adicionado com Sucesso!</string>
+    <string name="farmacia_sucesso">Farmácia Adicionada com Sucesso!</string>
+    <string name="super_sucesso">Supermercado Adicionado com Sucesso!</string>
 </resources>

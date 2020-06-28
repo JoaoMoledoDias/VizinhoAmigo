@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
@@ -55,6 +56,8 @@ public class RegistoFarmacia extends AppCompatActivity {
                 FarmaciaHelpClass helperClass = new FarmaciaHelpClass(nomefarmacia, telemovelfarmacia, moradafarmacia);
 
                 referencefar.child(nomefarmacia).setValue(helperClass);
+
+                Toast.makeText(getBaseContext(), R.string.farmacia_sucesso,Toast.LENGTH_LONG).show();
 
                 openlistfarmacias();
             }

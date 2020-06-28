@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".ListaSupermercados">
 
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/listView3"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
