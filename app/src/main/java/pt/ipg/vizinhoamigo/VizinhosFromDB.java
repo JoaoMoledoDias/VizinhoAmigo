@@ -2,19 +2,30 @@ package pt.ipg.vizinhoamigo;
 
 public class VizinhosFromDB {
 
-    public String nomevizinho;
+    String nome;
+    String morada;
 
-    public VizinhosFromDB(){}
-
-    public VizinhosFromDB(String nome){
-        this.nomevizinho = nome;
+    public String getNome() {
+        return nome;
     }
 
-    public String getNomevizinho() {
-        return nomevizinho;
+    public void setNome(String nome) {
+        this.nome = nome;
     }
 
-    public void setNomevizinho(String nomevizinho) {
-        this.nomevizinho = nomevizinho;
+    public String getMorada() {
+        return morada;
+    }
+
+    public void setMorada(String morada) {
+        this.morada = morada;
+    }
+
+    public VizinhosFromDB() {
+    }
+
+    public VizinhosFromDB(String nome, String morada) {
+        this.nome = nome;
+        this.morada = morada;
     }
 }
