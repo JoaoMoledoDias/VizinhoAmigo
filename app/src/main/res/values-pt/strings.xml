@@ -23,4 +23,8 @@
     <string name="Vizinho_sucesso">Vizinho Adicionado com Sucesso!</string>
     <string name="farmacia_sucesso">Farmácia Adicionada com Sucesso!</string>
     <string name="super_sucesso">Supermercado Adicionado com Sucesso!</string>
+    <string name="button_reg_super">Registar</string>
+    <string name="criar_novo_supermercado">Criar Novo Supermercado</string>
+    <string name="button_reg_farm">Registar</string>
+    <string name="criar_nova_farm_cia">Criar Nova Farmácia</string>
 </resources>

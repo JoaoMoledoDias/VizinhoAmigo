@@ -35,4 +35,8 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="button_reg_super">Register</string>
+    <string name="criar_novo_supermercado">Create New Supermarket</string>
+    <string name="button_reg_farm">Register</string>
+    <string name="criar_nova_farm_cia">Create new Pharmacy</string>
 </resources>
